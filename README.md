@@ -1,6 +1,6 @@
 # Purpose
 
-The purpose behind the Premier Scheduler was to create a bot that can create Discord scheduled events for the Valorant Premier season. Attempting to coordinate a team of 7 accross several timezones proved challenging. Scheduled events allowed for time-localized items the team could "Interest" to show they were avialable to be on the roster.
+The purpose behind the Premier Scheduler was to create a bot that can create Discord scheduled events for the Valorant Premier season. Attempting to coordinate a team of 7 across several time zones proved challenging. Scheduled events allowed for time-localized items the team could "Interest" to show they were available to be on the roster.
 
 # Installation
 
@@ -12,7 +12,7 @@ The purpose behind the Premier Scheduler was to create a bot that can create Dis
 
 # Notes
 
-There is no error checking or persitence built into the bot. The worst that will happen is you will have incorrect scheduled events you will have to manually delete.
+There is no error checking or persistence built into the bot. The worst that will happen is you will have incorrect scheduled events you will have to manually delete.
 
 There are no arguments or parameters on execution, just use `node index.js` to start execution. The events will be scheduled according to the configurations in the code.
 
